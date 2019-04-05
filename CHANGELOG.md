@@ -1,5 +1,11 @@
 # Changelog for Kustomer iOS SDK
 
+## 0.1.39
+
+Release Date: 04/05/2019
+
+* Added support to remove Kustomer Branding using settings
+
 ## 0.1.38
 
 Release Date: 03/28/2019
