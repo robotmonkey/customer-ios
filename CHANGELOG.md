@@ -4,7 +4,7 @@
 
 Release Date: 04/05/2019
 
-* Added support to remove Kustomer Branding using settings
+* Minor refactoring. 
 
 ## 0.1.38
 
